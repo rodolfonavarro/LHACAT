@@ -22,7 +22,7 @@ Nota: El ACAT es open source desarrollado por INTEL para el físico Hawking, y d
 
 ### Para descargar la aplicación sigue estos link
 ### ANDROID
-https://github.com/rodolfonavarro/LHACAT/tree/master/ANDROID/ACAT/ACAT/build/ouputs/apk/debug
+https://github.com/rodolfonavarro/LHACAT/tree/master/ANDROID/ACAT/ACAT/build/outputs/apk/debug
 
 ### LINUX
 https://github.com/rodolfonavarro/LHACAT/tree/master/JAVA/ACAT/dist
