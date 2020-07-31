@@ -12,7 +12,7 @@ No he tenido la oportunidad de probar el prototipo del dispositivo, en personas 
 
 Las características del dispositivo es un sensor infrarrojo, que puede detectar el movimiento del guiño del ojo, y un botón a pulsar con el dedo, que se usaría de acuerdo a la movilidad que pueda tener la persona.  Este envía una señal al computador o tableta lo cual permite con un software seleccionar una palabra de uso común, una letra de teclado y poder escribir, lo cual por medio de un software transforma de texto a voz y las personas puedan comunicarse.
 
-El uso del dispositivo, requiere de un cable mini USB a USB, un cable OTG (en caso de tableta o celular Android), un computador o notebook Windows o Linux, y por último la instalación del software, que en el caso de Windows puede ser ACAT de INTELL que da mayores opciones, o bien el software producido para los otros sistemas operativos desarrollados por mí.  A la vez la instalación en lo dispositivos de la voz ya sea masculina o femenina, en diversos idiomas.
+El uso del dispositivo, requiere de un cable mini USB a USB, un cable OTG (en caso de tableta o celular Android), un computador o notebook Windows o Linux, y por último la instalación del software, que en el caso de Windows puede ser ACAT de INTEL (https://01.org/acat) que da mayores opciones, o bien el software producido para los otros sistemas operativos desarrollados por mí.  A la vez la instalación en lo dispositivos de la voz ya sea masculina o femenina, en diversos idiomas.
 
 En el caso de Linux se desarrolló en la versión Debian para Raspberry, o bien instalarlo en un computador con Linux.
 
