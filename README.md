@@ -20,6 +20,13 @@ Los costos actuales del dispositivo es un aproximado de $40.00 estadounidenses.
 
 Nota: El ACAT es open source desarrollado por INTEL para el físico Hawking, y disponible.  Sin embargo, no se copió nada de dicho código para las otras versiones, solo el concepto.
 
+##Para descargar la aplicación sigue estos link
+###ANDROID
+https://github.com/rodolfonavarro/LHACAT/tree/master/ANDROID/ACAT/ACAT/build/ouputs/apk/debug
+
+###LINUX
+https://github.com/rodolfonavarro/LHACAT/tree/master/JAVA/ACAT/dist
+
 ### En este video se puede ver el funcionamiento 
 https://youtu.be/bzRTgt1rn2M
 
