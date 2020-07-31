@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ACAT</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Volver</string>
+    <string name="action_exit">Salir</string>
+    <string name="action_delete_all">Eliminar todo</string>
+    <string name="action_x">X</string>
+    <string name="firstl">a</string>
+    <string name="secondl">á</string>
+    <string name="firstso">Volver</string>
+    <string name="secondso">Salir</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="key_q">q</string>
+    <string name="key_w">w</string>
+    <string name="key_e">e</string>
+    <string name="key_r">r</string>
+    <string name="key_t">t</string>
+    <string name="key_y">y</string>
+    <string name="key_u">u</string>
+    <string name="key_i">i</string>
+    <string name="key_o">o</string>
+    <string name="key_p">p</string>
+    <string name="key_a">a</string>
+    <string name="key_s">s</string>
+    <string name="key_d">d</string>
+    <string name="key_f">f</string>
+    <string name="key_g">g</string>
+    <string name="key_h">h</string>
+    <string name="key_j">j</string>
+    <string name="key_k">k</string>
+    <string name="key_l">l</string>
+    <string name="key_z">z</string>
+    <string name="key_x">x</string>
+    <string name="key_c">c</string>
+    <string name="key_v">v</string>
+    <string name="key_b">b</string>
+    <string name="key_n">n</string>
+    <string name="key_m">m</string>
+    <string name="key_comma">,</string>
+    <string name="key_point">.</string>
+    <string name="notext"/>
+    <string-array name="key_letters">
+        <item>q</item>
+        <item>w</item>
+        <item>e</item>
+        <item>r</item>
+        <item>t</item>
+        <item>y</item>
+        <item>u</item>
+        <item>i</item>
+        <item>o</item>
+        <item>p</item>
+        <item>a</item>
+        <item>s</item>
+        <item>d</item>
+        <item>f</item>
+        <item>g</item>
+        <item>h</item>
+        <item>j</item>
+        <item>k</item>
+        <item>l</item>
+        <item>z</item>
+        <item>x</item>
+        <item>c</item>
+        <item>v</item>
+        <item>b</item>
+        <item>n</item>
+        <item>m</item>
+    </string-array>
+    <string-array name="key_number1">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>0</item>
+        <item>\u0021</item>
+        <item>\u0040</item>
+        <item>\u0023</item>
+        <item>\u0024</item>
+        <item>\u002F</item>
+        <item>\u005E</item>
+        <item>\u0026</item>
+        <item>\u002A</item>
+        <item>\u0028</item>
+        <item>\u0029</item>
+        <item>\u002D</item>
+        <item>\u0027</item>
+        <item>\u0022</item>
+        <item>\u003A</item>
+        <item>\u003B</item>
+        <item>\u002C</item>
+        <item>\u003F</item>
+    </string-array>
+    <string-array name="key_number2">
+        <item>\u002B</item>
+        <item>\u00D7</item>
+        <item>\u00F7</item>
+        <item>\u003D</item>
+        <item>\u003C</item>
+        <item>\u003E</item>
+        <item>\u007B</item>
+        <item>\u007D</item>
+        <item>\u005B</item>
+        <item>\u005D</item>
+        <item>\u20AC</item>
+        <item>\u00A3</item>
+        <item>\u00A5</item>
+        <item>\u2122</item>
+        <item>\u0025</item>
+        <item>\u007E</item>
+        <item>\u2018</item>
+        <item>\u00A4</item>
+        <item>\u00A9</item>
+        <item>\u00AE</item>
+        <item>\u005F</item>
+        <item>\u005C</item>
+        <item>\u007C</item>
+        <item>\u00AB</item>
+        <item>\u00BB</item>
+        <item>\u00A1</item>
+        <item>\u00BF</item>
+    </string-array>
+</resources>

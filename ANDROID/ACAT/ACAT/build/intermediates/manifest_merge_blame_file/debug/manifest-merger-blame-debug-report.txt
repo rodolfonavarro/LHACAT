@@ -1,0 +1,52 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="co.cr.apcnet.acat"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->E:\workspace\ACAT\ACAT\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->E:\workspace\ACAT\ACAT\src\main\AndroidManifest.xml
+10
+11    <!-- <uses-sdk android:targetSdkVersion="21" /> -->
+12
+13    <uses-permission android:name="android.permission.READ_USER_DICTIONARY" >
+13-->E:\workspace\ACAT\ACAT\src\main\AndroidManifest.xml:9:5-11:23
+13-->E:\workspace\ACAT\ACAT\src\main\AndroidManifest.xml:9:22-76
+14    </uses-permission>
+15
+16    <application
+16-->E:\workspace\ACAT\ACAT\src\main\AndroidManifest.xml:13:5-28:19
+17        android:allowBackup="true"
+17-->E:\workspace\ACAT\ACAT\src\main\AndroidManifest.xml:14:9-35
+18        android:debuggable="true"
+19        android:icon="@drawable/ic_launcher"
+19-->E:\workspace\ACAT\ACAT\src\main\AndroidManifest.xml:15:9-45
+20        android:label="@string/app_name"
+20-->E:\workspace\ACAT\ACAT\src\main\AndroidManifest.xml:16:9-41
+21        android:theme="@style/AppTheme" >
+21-->E:\workspace\ACAT\ACAT\src\main\AndroidManifest.xml:17:9-40
+22        <activity
+22-->E:\workspace\ACAT\ACAT\src\main\AndroidManifest.xml:18:9-27:20
+23            android:name="co.cr.apcnet.acat.MainActivity"
+23-->E:\workspace\ACAT\ACAT\src\main\AndroidManifest.xml:19:13-58
+24            android:label="@string/app_name"
+24-->E:\workspace\ACAT\ACAT\src\main\AndroidManifest.xml:20:13-45
+25            android:windowSoftInputMode="stateHidden" >
+25-->E:\workspace\ACAT\ACAT\src\main\AndroidManifest.xml:21:13-54
+26            <intent-filter>
+26-->E:\workspace\ACAT\ACAT\src\main\AndroidManifest.xml:22:13-26:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->E:\workspace\ACAT\ACAT\src\main\AndroidManifest.xml:23:17-69
+27-->E:\workspace\ACAT\ACAT\src\main\AndroidManifest.xml:23:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->E:\workspace\ACAT\ACAT\src\main\AndroidManifest.xml:25:17-77
+29-->E:\workspace\ACAT\ACAT\src\main\AndroidManifest.xml:25:27-74
+30            </intent-filter>
+31        </activity>
+32    </application>
+33
+34</manifest>

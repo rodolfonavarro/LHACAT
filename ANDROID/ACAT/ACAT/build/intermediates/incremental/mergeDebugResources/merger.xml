@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\workspace\ACAT\ACAT\src\main\res"/><source path="E:\workspace\ACAT\ACAT\build\generated\res\rs\debug"/><source path="E:\workspace\ACAT\ACAT\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\workspace\ACAT\ACAT\src\main\res"><file name="acetar" path="E:\workspace\ACAT\ACAT\src\main\res\drawable-hdpi\acetar.png" qualifiers="hdpi-v4" type="drawable"/><file name="back" path="E:\workspace\ACAT\ACAT\src\main\res\drawable-hdpi\back.png" qualifiers="hdpi-v4" type="drawable"/><file name="backword" path="E:\workspace\ACAT\ACAT\src\main\res\drawable-hdpi\backword.png" qualifiers="hdpi-v4" type="drawable"/><file name="blackbutton" path="E:\workspace\ACAT\ACAT\src\main\res\drawable-hdpi\blackbutton.png" qualifiers="hdpi-v4" type="drawable"/><file name="border" path="E:\workspace\ACAT\ACAT\src\main\res\drawable-hdpi\border.xml" qualifiers="hdpi-v4" type="drawable"/><file name="gradiantb" path="E:\workspace\ACAT\ACAT\src\main\res\drawable-hdpi\gradiantb.xml" qualifiers="hdpi-v4" type="drawable"/><file name="ic_acept" path="E:\workspace\ACAT\ACAT\src\main\res\drawable-hdpi\ic_acept.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_acepty" path="E:\workspace\ACAT\ACAT\src\main\res\drawable-hdpi\ic_acepty.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_arrowleft" path="E:\workspace\ACAT\ACAT\src\main\res\drawable-hdpi\ic_arrowleft.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_arrowlefty" path="E:\workspace\ACAT\ACAT\src\main\res\drawable-hdpi\ic_arrowlefty.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_arrowright" path="E:\workspace\ACAT\ACAT\src\main\res\drawable-hdpi\ic_arrowright.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_arrowrighty" path="E:\workspace\ACAT\ACAT\src\main\res\drawable-hdpi\ic_arrowrighty.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_back" path="E:\workspace\ACAT\ACAT\src\main\res\drawable-hdpi\ic_back.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_backword" path="E:\workspace\ACAT\ACAT\src\main\res\drawable-hdpi\ic_backword.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_backwordy" path="E:\workspace\ACAT\ACAT\src\main\res\drawable-hdpi\ic_backwordy.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_backy" path="E:\workspace\ACAT\ACAT\src\main\res\drawable-hdpi\ic_backy.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_caplock" path="E:\workspace\ACAT\ACAT\src\main\res\drawable-hdpi\ic_caplock.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_caplocky" path="E:\workspace\ACAT\ACAT\src\main\res\drawable-hdpi\ic_caplocky.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\workspace\ACAT\ACAT\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_microphone" path="E:\workspace\ACAT\ACAT\src\main\res\drawable-hdpi\ic_microphone.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_microphoney" path="E:\workspace\ACAT\ACAT\src\main\res\drawable-hdpi\ic_microphoney.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_settings" path="E:\workspace\ACAT\ACAT\src\main\res\drawable-hdpi\ic_settings.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_settingsy" path="E:\workspace\ACAT\ACAT\src\main\res\drawable-hdpi\ic_settingsy.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_spacebar" path="E:\workspace\ACAT\ACAT\src\main\res\drawable-hdpi\ic_spacebar.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_spacebary" path="E:\workspace\ACAT\ACAT\src\main\res\drawable-hdpi\ic_spacebary.png" qualifiers="hdpi-v4" type="drawable"/><file name="spacebar" path="E:\workspace\ACAT\ACAT\src\main\res\drawable-hdpi\spacebar.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\workspace\ACAT\ACAT\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\workspace\ACAT\ACAT\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\workspace\ACAT\ACAT\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_main" path="E:\workspace\ACAT\ACAT\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="option" path="E:\workspace\ACAT\ACAT\src\main\res\layout\option.xml" qualifiers="" type="layout"/><file name="settings" path="E:\workspace\ACAT\ACAT\src\main\res\layout\settings.xml" qualifiers="" type="layout"/><file path="E:\workspace\ACAT\ACAT\src\main\res\values\colors.xml" qualifiers=""><color name="colorPrimary">#42A5F5</color><color name="colorPrimaryDark">#1E88E5</color><color name="colorAccent">#FFEE58</color><color name="color_red">#FF0000</color></file><file path="E:\workspace\ACAT\ACAT\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_horizontal_margin">0dp</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_botton_margin">0dp</dimen><dimen name="activity_left_margin">0dp</dimen></file><file path="E:\workspace\ACAT\ACAT\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">ACAT</string><string name="hello_world">Hello world!</string><string name="action_settings">Volver</string><string name="action_exit">Salir</string><string name="action_delete_all">Eliminar todo</string><string name="action_x">X</string><string name="firstl">a</string><string name="secondl">á</string><string name="firstso">Volver</string><string name="secondso">Salir</string><string name="hello_blank_fragment">Hello blank fragment</string><string name="key_q">q</string><string name="key_w">w</string><string name="key_e">e</string><string name="key_r">r</string><string name="key_t">t</string><string name="key_y">y</string><string name="key_u">u</string><string name="key_i">i</string><string name="key_o">o</string><string name="key_p">p</string><string name="key_a">a</string><string name="key_s">s</string><string name="key_d">d</string><string name="key_f">f</string><string name="key_g">g</string><string name="key_h">h</string><string name="key_j">j</string><string name="key_k">k</string><string name="key_l">l</string><string name="key_z">z</string><string name="key_x">x</string><string name="key_c">c</string><string name="key_v">v</string><string name="key_b">b</string><string name="key_n">n</string><string name="key_m">m</string><string name="key_comma">,</string><string name="key_point">.</string><string name="notext"/><string-array name="key_letters">
+        <item>q</item>
+        <item>w</item>
+        <item>e</item>
+        <item>r</item>
+        <item>t</item>
+        <item>y</item>
+        <item>u</item>
+        <item>i</item>
+        <item>o</item>
+        <item>p</item>
+        <item>a</item>
+        <item>s</item>
+        <item>d</item>
+        <item>f</item>
+        <item>g</item>
+        <item>h</item>
+        <item>j</item>
+        <item>k</item>
+        <item>l</item>
+        <item>z</item>
+        <item>x</item>
+        <item>c</item>
+        <item>v</item>
+        <item>b</item>
+        <item>n</item>
+        <item>m</item>
+    </string-array><string-array name="key_number1">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>0</item>
+        <item>\u0021</item>
+        <item>\u0040</item>
+        <item>\u0023</item>
+        <item>\u0024</item>
+        <item>\u002F</item>
+        <item>\u005E</item>
+        <item>\u0026</item>
+        <item>\u002A</item>
+        <item>\u0028</item>
+        <item>\u0029</item>
+        <item>\u002D</item>
+        <item>\u0027</item>
+        <item>\u0022</item>
+        <item>\u003A</item>
+        <item>\u003B</item>
+        <item>\u002C</item>
+        <item>\u003F</item>
+    </string-array><string-array name="key_number2">
+        <item>\u002B</item>
+        <item>\u00D7</item>
+        <item>\u00F7</item>
+        <item>\u003D</item>
+        <item>\u003C</item>
+        <item>\u003E</item>
+        <item>\u007B</item>
+        <item>\u007D</item>
+        <item>\u005B</item>
+        <item>\u005D</item>
+        <item>\u20AC</item>
+        <item>\u00A3</item>
+        <item>\u00A5</item>
+        <item>\u2122</item>
+        <item>\u0025</item>
+        <item>\u007E</item>
+        <item>\u2018</item>
+        <item>\u00A4</item>
+        <item>\u00A9</item>
+        <item>\u00AE</item>
+        <item>\u005F</item>
+        <item>\u005C</item>
+        <item>\u007C</item>
+        <item>\u00AB</item>
+        <item>\u00BB</item>
+        <item>\u00A1</item>
+        <item>\u00BF</item>
+    </string-array></file><file path="E:\workspace\ACAT\ACAT\src\main\res\values\styles.xml" qualifiers=""><style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        
+            
+    </style><style name="AppTheme.Botonk" parent="AppTheme">
+	    <item name="android:textColor">@android:color/white</item>
+
+ 
+
+	</style><style name="AppTheme.Botonk.Azul" parent="AppTheme.Botonk">
+	    <item name="android:background">@drawable/blackbutton</item>
+	</style><style name="AppTheme.Botonk.Rojo" parent="AppTheme.Botonk">
+	    <item name="android:background">#EA4D39</item>
+	</style></file><file path="E:\workspace\ACAT\ACAT\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        
+    </style></file><file path="E:\workspace\ACAT\ACAT\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        
+    </style></file><file path="E:\workspace\ACAT\ACAT\src\main\res\values-w820dp\dimens.xml" qualifiers="w820dp-v13"><dimen name="activity_horizontal_margin">64dp</dimen></file></source><source path="E:\workspace\ACAT\ACAT\build\generated\res\rs\debug"/><source path="E:\workspace\ACAT\ACAT\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\workspace\ACAT\ACAT\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\workspace\ACAT\ACAT\src\debug\res"/></dataSet><mergedItems/></merger>

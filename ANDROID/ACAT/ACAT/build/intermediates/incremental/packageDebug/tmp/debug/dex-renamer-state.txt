@@ -1,0 +1,4 @@
+#Fri Jul 17 10:36:56 CST 2020
+base.0=E\:\\workspace\\ACAT\\ACAT\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
