@@ -41,3 +41,7 @@ https://youtu.be/bzRTgt1rn2M
 
 ### Componentes
 <img src="https://user-images.githubusercontent.com/61749659/88955266-ec33e380-d258-11ea-9035-12052ab9713b.PNG" width="90%"></img>
+
+
+### 3D Print Design 
+<img src="https://user-images.githubusercontent.com/61749659/89312664-c3cf2f00-d634-11ea-886a-167949e5040c.PNG" width="45%"></img>
