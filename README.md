@@ -44,4 +44,8 @@ https://youtu.be/bzRTgt1rn2M
 
 
 ### 3D Print Design 
+Los siguientes son los diseños en 3D para crear las cajas de los dispositivos.  O bien puede diseñar sus propias cajas en TinkerCad (https://www.tinkercad.com).
+Para descargar los STL sigue este link
+https://github.com/rodolfonavarro/LHACAT/tree/master/Design3D
+
 <img src="https://user-images.githubusercontent.com/61749659/89312664-c3cf2f00-d634-11ea-886a-167949e5040c.PNG" width="45%"></img>
